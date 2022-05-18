@@ -1,5 +1,5 @@
 attrs==19.3.0
-Automat==0.8.0
+Automat==20.2.0
 blinker==1.4
 certifi==2019.11.28
 chardet==3.0.4
